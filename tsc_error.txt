@@ -1,0 +1,6 @@
+
+> react-example@0.0.0 lint
+> tsc --noEmit
+
+src/App.tsx(2,75): error TS2307: Cannot find module 'react-router-dom' or its corresponding type declarations.
+src/App.tsx(4,24): error TS2307: Cannot find module 'idb' or its corresponding type declarations.
